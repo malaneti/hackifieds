@@ -23,6 +23,13 @@ An app for viewing and posting classified listings, for Hack Reactor members onl
 3. Clicking on a listing title will pop open detailed listing info for that particular listing.  You cannot see particular details (i.e. email, phone number) until the app has authenticated you via github.
 4. If you are logged in / authenticated via github, you will be allowed to create a new listing in the category of your choice.
 
+
+<img width="1280" alt="screen shot 2016-07-12 at 7 06 01 pm" src="https://cloud.githubusercontent.com/assets/17863675/16789618/182fe5fc-4864-11e6-8126-f014b2754e3c.png">
+<img width="1280" alt="screen shot 2016-07-12 at 7 06 13 pm" src="https://cloud.githubusercontent.com/assets/17863675/16789652/485ff9b0-4864-11e6-929c-6eb3f46687ad.png">
+<img width="1280" alt="screen shot 2016-07-12 at 6 55 21 pm" src="https://cloud.githubusercontent.com/assets/17863675/16789556/8be67246-4863-11e6-8d57-f568c63cf72e.png">
+<img width="1280" alt="screen shot 2016-07-12 at 7 06 52 pm" src="https://cloud.githubusercontent.com/assets/17863675/16789659/544d68e8-4864-11e6-944d-24efd3cdfe7d.png">
+<img width="1280" alt="screen shot 2016-07-12 at 7 13 05 pm" src="https://cloud.githubusercontent.com/assets/17863675/16789712/d0482fe6-4864-11e6-9406-fa783ead658d.png">
+
 ## Getting Started
 
 1. Start the MySQL server.  Hackifieds will run on MySQL or MariaDB and has been tested on each DBMS:
